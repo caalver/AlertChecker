@@ -1,0 +1,4 @@
+@timestamp,detection_ip,classification,src_ip,src_port,dst_ip,dst_port,priority,event
+2018-09-02T08:15:41.868Z,31.28.67.117,Attempted Administrator Privilege Gain,46.4.24.9,36024,31.28.87.10,80,1,OS-OTHER Bash CGI environment variable injection attempt
+2018-09-02T08:15:41.868Z,31.28.67.117,Attempted Administrator Privilege Gain,46.4.24.9,47058,31.28.87.11,80,1,OS-OTHER Bash CGI environment variable injection attempt
+2018-09-02T08:15:41.868Z,31.28.67.117,Attempted Administrator Privilege Gain,46.4.24.9,58553,31.28.87.5,80,1,OS-OTHER Bash CGI environment variable injection attempt

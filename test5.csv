@@ -1,0 +1,12 @@
+@timestamp,detection_ip,classification,src_ip,src_port,dst_ip,dst_port,priority,event
+2018-09-08T05:38:27.204Z,31.28.67.119,A Network Trojan was Detected,89.248.168.171,34058,31.28.87.11,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-09-08T05:38:27.204Z,31.28.67.119,A Network Trojan was Detected,89.248.168.171,37902,31.28.87.5,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-09-08T05:38:27.204Z,31.28.67.119,Detection of a Network Scan,89.248.168.171,37596,31.28.87.5,80,3,MALWARE-CNC User-Agent known malicious user-agent string ZmEu - vulnerability scanner
+2018-09-08T05:38:27.204Z,31.28.67.119,A Network Trojan was Detected,89.248.168.171,38422,31.28.87.5,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-09-08T05:38:27.204Z,31.28.67.119,A Network Trojan was Detected,89.248.168.171,52174,31.28.87.10,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-09-08T05:38:27.204Z,31.28.67.119,Detection of a Network Scan,89.248.168.171,50954,31.28.87.10,80,3,MALWARE-CNC User-Agent known malicious user-agent string ZmEu - vulnerability scanner
+2018-09-08T05:38:27.204Z,31.28.67.119,A Network Trojan was Detected,89.248.168.171,53524,31.28.87.10,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-09-08T05:38:27.204Z,31.28.67.119,A Network Trojan was Detected,89.248.168.171,34798,31.28.87.11,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-09-08T05:38:27.204Z,31.28.67.119,Detection of a Network Scan,89.248.168.171,33584,31.28.87.11,80,3,MALWARE-CNC User-Agent known malicious user-agent string ZmEu - vulnerability scanner
+2018-09-08T05:00:10.046Z,31.28.67.119,Misc Activity,94.126.41.33,51291,209.222.80.12,21,3,POLICY-OTHER FTP anonymous login attempt
+2018-09-08T04:50:56.769Z,31.28.67.119,A Network Trojan was Detected,80.211.93.176,41836,31.28.87.10,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection

@@ -1,0 +1,7 @@
+@timestamp,detection_ip,classification,src_ip,src_port,dst_ip,dst_port,priority,event
+2018-08-02T02:01:13.454Z,31.28.67.117,A Network Trojan was Detected,199.127.62.34,38696,31.28.87.11,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-08-02T02:01:13.451Z,31.28.67.117,A Network Trojan was Detected,199.127.62.34,41118,31.28.87.5,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-08-02T02:01:13.452Z,31.28.67.117,A Network Trojan was Detected,199.127.62.34,44299,31.28.87.10,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-08-02T02:01:13.451Z,31.28.67.117,A Network Trojan was Detected,199.127.62.34,41507,31.28.87.5,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-08-02T02:01:13.452Z,31.28.67.117,A Network Trojan was Detected,199.127.62.34,38196,31.28.87.11,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
+2018-08-02T02:01:13.452Z,31.28.67.117,A Network Trojan was Detected,199.127.62.34,44807,31.28.87.10,80,1,MALWARE-CNC Win.Trojan.Pmabot outbound connection
